@@ -7,10 +7,22 @@ body {
     background-color: #f8f8f8;
 }
 
+/* Navbar (Normal Scrolling) */
+.navbar {
+    background-color: #ff6347;  /* Tomato color */
+    color: white;
+    text-align: center;
+    padding: 15px;
+    font-size: 24px;
+    font-weight: bold;
+    width: 100%;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
 /* Ramen Menu */
 #ramen-menu {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     justify-content: center;
     gap: 10px;
     padding: 20px;

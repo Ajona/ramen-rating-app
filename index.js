@@ -1,7 +1,14 @@
 const ramens = [
     { id: 1, name: "Shoyu Ramen", restaurant: "Ichiran", image: "images/ramen1.webp", rating: 5, comment: "Delicious!" },
     { id: 2, name: "Miso Ramen", restaurant: "Menya", image: "images/ramen2.webp", rating: 4, comment: "Very flavorful!" },
-    { id: 3, name: "Tonkotsu Ramen", restaurant: "Ramen-ya", image: "images/ramen3.webp", rating: 5, comment: "Rich broth!" },
+    { id: 3, name: "Tonkotsu Ramen", restaurant: "Ezo Restaurant", image: "images/ramen4.webp", rating: 9, comment: "Rich broth!" },
+    { id: 3, name: "Shio ramen", restaurant: "Upepo", image: "images/ramen5.webp", rating: 6, comment: "Rich!" },
+    { id: 3, name: "Wakayama ramen", restaurant: "Jiko", image: "images/ramen6.webp", rating: 5, comment: "Bravo!" },
+    { id: 3, name: "Instant ramen", restaurant: "Tatu Restaurant By Fairmont", image: "images/ramen7.webp", rating: 5, comment: "Tamu!" },
+    { id: 3, name: "Ramyeon ramen", restaurant: "The Carnivore Restaurant", image: "images/ramen8.webp", rating: 10, comment: "Ina slap!" },
+    { id: 3, name: "Green onions", restaurant: "270° Rooftop", image: "images/ramen9.webp", rating: 9, comment: "Tamu Sana!" },
+    { id: 3, name: "Beni shoga", restaurant: "Meko", image: "images/ramen10.webp", rating: 10, comment: "Sweet!" },
+    { id: 3, name: "Kamaboko", restaurant: "Crave Kenya Kilimani", image: "images/ramen11.webp", rating: 8, comment: "Wow" },
 ];
 
 // Function to display ramen images
